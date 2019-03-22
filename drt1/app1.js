@@ -1,1 +1,1 @@
-console.lob(app1)
+console.log("app");
